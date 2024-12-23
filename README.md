@@ -1,8 +1,3 @@
-Here’s the `README.md` text for your project:
-
----
-
-```markdown
 # Tarot Reading Game
 
 This is a fun little Python project where you can explore tarot card readings! It lets you shuffle and choose cards through a simple graphical interface, then gives you readings in four areas: general, love, career, and finance. Whether you’re curious about tarot or just want to have some fun, this project is for you.
